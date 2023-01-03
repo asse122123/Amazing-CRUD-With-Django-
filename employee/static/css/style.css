@@ -1,0 +1,30 @@
+body {
+    background:blueviolet;
+    height: 100%;
+    margin: 25px 0;
+    padding-left: 300px;
+}
+
+table,
+th,
+td {
+    border: 1px solid rgb(118, 200, 221);
+    background-color: aqua;
+}
+
+tr:hover {
+    background-color: yellow;
+}
+
+th {
+    background-color: #04AA6D;
+    color: white;
+}
+
+button {
+    border-radius: 18px;
+    color: green;
+    background-color: #04AA6D;
+    cursor: pointer;
+    font-size: 25px;
+}
